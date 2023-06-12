@@ -26,7 +26,7 @@ class MyDisplay:
         self.top_frame = None
         self.root = tk.Tk()
 
-        self.root.geometry("600x600")
+        self.root.geometry("700x600")
         self.root.title("Extraction")
         self.top_menu()
 
@@ -90,7 +90,13 @@ class MyDisplay:
 
     def submit_files(self):
         file_paths = self.textbox1.get("1.0", tk.END).strip().split("\n")
-        list_of_files(file_paths)
+        file_name_txt = self.save_as_txt_entry.get().strip()
+        file_name_xml = self.save_as_entry.get().strip()
+        path_save = self.save_location_entry.get().strip()
+        trial_run_enable = self.trial_var.get()
+        data_indexes = self.data_indx_entry.get()
+
+        list_of_files(file_paths, file_name_txt, file_name_xml, path_save, trial_run_enable, data_indexes)
 
     def on_closing(self):
         if messagebox.askyesno(title="Quit?", message="Do you really want to quit?"):
@@ -127,7 +133,10 @@ class MyDisplay:
 
     def user_entry_fields(self):
         save_as_var = tk.StringVar()
-        trial_var = tk.IntVar()
+        save_as_txt = tk.StringVar()
+        save_directory_loc = tk.StringVar()
+        self.trial_var = tk.IntVar()
+        data_index = tk.StringVar()
 
         #Frame Title
         self.top_frame = tk.Frame(self.root, height=200, bg="grey")
@@ -140,17 +149,60 @@ class MyDisplay:
         self.frame_1.pack(anchor="n", fill="x")
         self.trial_label = tk.Label(self.frame_1 , text='Trial Run', font=('Arial', 10, 'bold'))
         self.trial_label.pack(side=tk.LEFT, padx=10, pady=5)
-        self.c1 = tk.Checkbutton(self.frame_1, variable=trial_var, onvalue=1, offvalue=0, activebackground='grey')
+        self.c1 = tk.Checkbutton(self.frame_1, variable=self.trial_var, onvalue=1, offvalue=0, activebackground='grey')
         self.c1.config(bg="grey")
         self.c1.pack(side=tk.LEFT, padx=10)
+
+        # Frame 3
+        self.frame_3 = tk.Frame(self.root, bg="grey")
+        self.frame_3.pack(anchor="n", fill="x")
+        self.save_as_txt_label = tk.Label(self.frame_3, text='File Name txt', font=('Arial', 10, 'bold'))
+        self.save_as_txt_entry = tk.Entry(self.frame_3, textvariable=save_as_txt, width=40, font=('Arial', 10, 'normal'))
+        self.save_as_txt_ex = tk.Label(self.frame_3, text='IE: bob.txt', font=('Arial', 10, 'bold'), bg="#51E2F5")
+        self.save_as_txt_label.pack(side=tk.LEFT, padx=10, pady=5)
+        self.save_as_txt_entry.pack(side=tk.LEFT)
+        self.save_as_txt_ex.pack(side=tk.LEFT, padx=10)
+
+
+        # Frame 4
+        self.frame_4 = tk.Frame(self.root, bg="grey")
+        self.frame_4.pack(anchor="n", fill="x")
+        self.save_location_label = tk.Label(self.frame_4, text='Save Location', font=('Arial', 10, 'bold'))
+        self.save_location_entry = tk.Entry(self.frame_4, textvariable=save_directory_loc, width=40, font=('Arial', 10, 'normal'))
+        self.save_location_entry_ex = tk.Label(self.frame_4, text='IE: \\Personal-Projects\\PDF-Scraper', font=('Arial', 10, 'bold'), bg="#51E2F5")
+        self.save_location_label.pack(side=tk.LEFT, padx=10, pady=5)
+        self.save_location_entry.pack(side=tk.LEFT)
+        self.save_location_entry_ex.pack(side=tk.LEFT, padx=10)
+
+
+        # Frame Title
+        self.mid_frame = tk.Frame(self.root, height=200, bg="grey")
+        self.mid_frame.pack(fill='x')
+        self.label_req_f = tk.Label(self.mid_frame, text="Required Fields", font=("Arial", 16), bg="grey")
+        self.label_req_f.pack(padx=5, pady=5)
 
         #Frame 2
         self.frame_2 = tk.Frame(self.root, bg="grey")
         self.frame_2.pack(anchor="n", fill="x")
         self.save_as_label = tk.Label(self.frame_2, text='Save as', font=('Arial', 10, 'bold'))
         self.save_as_entry = tk.Entry(self.frame_2, textvariable=save_as_var, width=40, font=('Arial', 10, 'normal'))
+        self.save_as_entry_ex = tk.Label(self.frame_2, text='IE: nice', font=('Arial', 10, 'bold'), bg="#51E2F5")
         self.save_as_label.pack(side=tk.LEFT, padx=10, pady=5)
         self.save_as_entry.pack(side=tk.LEFT)
+        self.save_as_entry_ex.pack(side=tk.LEFT, padx=10)
+
+        #Frame 5
+
+        self.frame_5 = tk.Frame(self.root, bg="grey")
+        self.frame_5.pack(anchor="n", fill="x")
+        self.data_indx_label = tk.Label(self.frame_5, text='Pub Name & Authors Index', font=('Arial', 10, 'bold'))
+        self.data_indx_entry = tk.Entry(self.frame_5, textvariable=data_index, width=40, font=('Arial', 10, 'normal'))
+        self.data_indx_ex = tk.Label(self.frame_5, text='IE: 0 1', font=('Arial', 10, 'bold'), bg="#51E2F5")
+        self.data_indx_label.pack(side=tk.LEFT, padx=10, pady=5)
+        self.data_indx_entry.pack(side=tk.LEFT)
+        self.data_indx_ex.pack(side=tk.LEFT, padx=10)
+
+
 
 
 
