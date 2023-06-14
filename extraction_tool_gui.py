@@ -22,7 +22,7 @@ def list_of_files(file_paths, file_name_txt, file_name_xml, path_save, trial_run
         else:
             print("Retard")
 
-        convert_to_excel("testing2.txt", file_name_xml_export)
+        convert_to_excel("testing2.txt", file_name_xml_export, path_save)
 
 
 
@@ -80,13 +80,20 @@ def get_path(file_path, file_name, path_save, trial_run_enable, data_indexes):
             index_author = int(data_location.get("author"))
             extracted_pub_name = name_person[index_pub_name]
             extracted_name = name_person[index_author]
-            while not re.match(regex_name, extracted_name) and index_author < 5:
-                index_pub_name += 1
-                index_author += 1
+            while index_author < len(name_person):
                 extracted_pub_name = name_person[index_pub_name]
                 extracted_name = name_person[index_author]
-                if extracted_pub_name[0].islower():
-                    extracted_pub_name = name_person[index_pub_name-1] + " " + name_person[index_pub_name]
+                if "La Presse" in extracted_name or "La Presse" in extracted_pub_name:
+                    index_pub_name += 1
+                    index_author += 1
+                    continue
+
+                if re.match(regex_name, extracted_name):
+                    if extracted_pub_name[0].islower():
+                        extracted_pub_name = name_person[index_pub_name-1] + " " + name_person[index_pub_name]
+                    break
+                index_pub_name += 1
+                index_author += 1
 
         if date_test:
             extracted_date = date_test[0]
@@ -116,6 +123,20 @@ def map_conversion(lst):
     res_dct = {names_dict[i]: lst[i] for i in range(0, len(lst))}
     return res_dct
 
-def convert_to_excel(conv_file, file_name_xml):
+def convert_to_excel(conv_file, file_name_xml, path_save):
+    file_name_xml = validate_path_save(path_save, file_name_xml)
     df = pd.read_csv(conv_file, sep="\t")
     df.to_excel(file_name_xml + '.xlsx', 'Sheet1', index=False)
+
+def validate_path_save(path_save, file_name):
+    # check if the path exists and create it if it does not
+    if not os.path.exists(path_save) and path_save not in ('', None, "null"):
+        os.makedirs(path_save)
+
+    # Creates the path for the file otherwise defaults to the current directory
+    if path_save:
+        path_save = os.path.join(path_save, file_name)
+    else:
+        path_save = file_name
+
+    return path_save

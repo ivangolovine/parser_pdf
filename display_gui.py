@@ -5,6 +5,7 @@ from tkinter.messagebox import showinfo
 from tkinter import messagebox, scrolledtext
 from extraction_tool_gui import list_of_files
 import os
+import sys
 
 
 #Need to add 3 buttons 1 for selections 1 for clearing 1 for submittiing
@@ -28,7 +29,7 @@ class MyDisplay:
 
         self.root.geometry("700x600")
         self.root.title("Extraction")
-        self.top_menu()
+
 
         self.user_entry_fields()
         #Frame for the label/textbox
@@ -43,7 +44,7 @@ class MyDisplay:
 
         self.check_state = tk.IntVar()
 
-        self.textbox1 = scrolledtext.ScrolledText(self.frame, height=5, font=('Arial', 10))
+        self.textbox1 = scrolledtext.ScrolledText(self.frame, height=5, font=('Arial', 10), undo=True)
         self.textbox1.configure(background='#4D4D4D')
         self.textbox1.pack(padx=10, pady=10, expand=True, fill='both')
 
@@ -59,10 +60,10 @@ class MyDisplay:
         self.submit_button = ttk.Button(self.bottom_frame, text="Submit", command=self.submit_files)
         self.submit_button.pack(side=tk.LEFT, padx=25, pady=12, expand=True)
         #self.submit_button.pack(expand=True)
-        self.close_button = ttk.Button(self.bottom_frame, text="Close", command=exit)
+        self.close_button = ttk.Button(self.bottom_frame, text="Close", command=self.root.destroy)
         self.close_button.pack(side=tk.LEFT, padx=25, pady=14, expand=True)
 
-
+        self.top_menu()
         self.right_click_menu()
         self.root.protocol("WM_DELETE_WINDOW", self.on_closing)
 
@@ -125,9 +126,11 @@ class MyDisplay:
     def top_menu(self):
         self.menubar = tk.Menu(self.root)
         self.file_menu_top = tk.Menu(self.menubar, tearoff=0)
+        self.file_menu_top.add_command(label="Undo", command=self.textbox1.edit_undo)
+        self.file_menu_top.add_command(label="Redo", command=self.textbox1.edit_redo)
         self.file_menu_top.add_command(label="Close", command=self.on_closing)
         self.file_menu_top.add_separator()
-        self.file_menu_top.add_command(label="Close Without Question", command=exit)
+        self.file_menu_top.add_command(label="Close Without Question", command=self.root.destroy)
         self.menubar.add_cascade(menu=self.file_menu_top, label="File")
         self.root.config(menu=self.menubar)
 
