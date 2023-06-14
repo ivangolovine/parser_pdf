@@ -1,0 +1,1050 @@
+extracted
+ name = Isabelle Hachey,
+ date = mercredi 13 novembre 2019,
+ pud_name = Violence généalogique et autres impostures
+-----------------
+extracted
+ name = Fanny Lévesque; Tommy Chouinard,
+ date = lundi 30 septembre 2019,
+ pud_name = Québec a laissé tomber les autochtones
+-----------------
+extracted
+ name = Isabelle Picard,
+ date = samedi 21 décembre 2019,
+ pud_name = OPINION
+-----------------
+extracted
+ name = Éric Clément,
+ date = mardi 17 décembre 2019,
+ pud_name = Les autochtones de demain
+-----------------
+extracted
+ name = Isabelle Hachey,
+ date = samedi 16 février 2019,
+ pud_name = Les nouveaux « Métis »
+-----------------
+extracted
+ name = Thomas Dufour; Janie Gosselin,
+ date = lundi 18 novembre 2019,
+ pud_name = QS devient le premier parti à se doter d'une instance autochtone
+-----------------
+extracted
+ name = Isabelle Picard,
+ date = mercredi 11 septembre 2019,
+ pud_name = Chronique du beau
+-----------------
+extracted
+ name = Marie Tison,
+ date = dimanche 15 septembre 2019,
+ pud_name = Pour un cinéma plus respectueux
+-----------------
+extracted
+ name = Isabelle Hachey,
+ date = samedi 16 février 2019,
+ pud_name = Comment être reconnu comme Métis ?
+-----------------
+extracted
+ name = Isabelle Hachey,
+ date = dimanche 17 février 2019,
+ pud_name = Forages et mirages dans le Nord-du-Québec
+-----------------
+extracted
+ name = FANNY LÉVESQUE, JUDITH LACHAPELLE,
+ date = mardi 15 octobre 2019,
+ pud_name = La grande réconciliation avec les autochtones a-t-elle eu lieu ?
+-----------------
+extracted
+ name = Éric Clément,
+ date = lundi 30 décembre 2019,
+ pud_name = Embrasser le postcolonialisme
+-----------------
+extracted
+ name = Isabelle Picard,
+ date = mercredi 23 octobre 2019,
+ pud_name = Le dilemme électoral
+-----------------
+extracted
+ name = Isabelle Hachey,
+ date = dimanche 17 février 2019,
+ pud_name = Un grand chef autoproclamé profite de la manne
+-----------------
+extracted
+ name = Éric Clément,
+ date = dimanche 15 septembre 2019,
+ pud_name = Un parcours d'exception
+-----------------
+extracted
+ name = Antoine Dionne Charest,
+ date = jeudi 14 novembre 2019,
+ pud_name = Les conservateurs doivent renouer avec leurs racines
+-----------------
+extracted
+ name = Louise Leduc,
+ date = mardi 15 octobre 2019,
+ pud_name = La réalité des autochtones demeure incomprise au Canada
+-----------------
+extracted
+ name = Jean-Alexandre D'Etcheverry Directeur, Affaires autochtones, cabinet de relations publiques NATIONAL,
+ date = vendredi 21 juin 2019,
+ pud_name = Prêts pour une réconciliation économique ?
+-----------------
+extracted
+ name = Grand Nord québécois,
+ date = lundi 11 novembre 2019,
+ pud_name = ACTUALITÉS
+-----------------
+extracted
+ name = Fanny Lévesque,
+ date = jeudi 31 janvier 2019,
+ pud_name = Leur revitalisation fait l'objet d'un projet de loi canadien
+-----------------
+extracted
+ name = Le Nord s'enfonce dans la crise,
+ date = mercredi 31 juillet 2019,
+ pud_name = Nunavik - Suicides
+-----------------
+extracted
+ name = ÉRIC CLÉMENT,
+ date = mardi 17 décembre 2019,
+ pud_name = Maison amérindienne de Mont-Saint-Hilaire : les autochtones de demain
+-----------------
+extracted
+ name = Mathieu Perreault,
+ date = jeudi 22 août 2019,
+ pud_name = La renaissance du droit autochtone
+-----------------
+extracted
+ name = Éric Clément,
+ date = samedi 20 juillet 2019,
+ pud_name = Natures identitaires
+-----------------
+extracted
+ name = Isabelle Hachey,
+ date = lundi 16 septembre 2019,
+ pud_name = Un vent de mobilisation
+-----------------
+extracted
+ name = Judith Lachapelle,
+ date = mardi 15 octobre 2019,
+ pud_name = Retour sur six évènements qui ont marqué les quatre années de pouvoir du gouvernement Trudeau.
+-----------------
+extracted
+ name = Isabelle Picard,
+ date = vendredi 15 février 2019,
+ pud_name = Elle aura été ministre
+-----------------
+extracted
+ name = Alexandre Pratt,
+ date = jeudi 28 février 2019,
+ pud_name = « Ton crisse de kawish »
+-----------------
+extracted
+ name = ISABELLE HACHEY,
+ date = lundi 16 septembre 2019,
+ pud_name = Un village inuit au bord du gouffre
+-----------------
+extracted
+ name = Rima Elkouri,
+ date = lundi 30 septembre 2019,
+ pud_name = L'espoir de mère en fille
+-----------------
+extracted
+ name = Stéphanie Morin,
+ date = dimanche 15 septembre 2019,
+ pud_name = Les ondes de la survie
+-----------------
+extracted
+ name = Les Vikings à Terre-Neuve plus longtemps qu'on ne le croyait,
+ date = lundi 19 août 2019,
+ pud_name = Science
+-----------------
+extracted
+ name = Isabelle Picard,
+ date = samedi 19 janvier 2019,
+ pud_name = OPINION
+-----------------
+extracted
+ name = THOMAS DUFOUR,
+ date = dimanche 17 novembre 2019,
+ pud_name = QS: premier parti québécois à se doter d'une instance autochtone
+-----------------
+extracted
+ name = Marissa Groguhé,
+ date = mercredi 20 novembre 2019,
+ pud_name = La vitrine idéale
+-----------------
+extracted
+ name = Louise Leduc,
+ date = vendredi 22 mars 2019,
+ pud_name = Le canada dans tous ses états
+-----------------
+extracted
+ name = Jean Johnson,
+ date = mardi 23 avril 2019,
+ pud_name = Un devoir de solidarité
+-----------------
+extracted
+ name = La Gendarmerie royale du Canada (GRC) a retiré l'importante présence policière déployée à York Landing, faute d'avoir pu,
+ date = mercredi 31 juillet 2019,
+ pud_name = York Landing - — La vaste chasse à l'homme pour retrouver deux jeunes Britanno-Colombiens soupçonnés de meurtres a pris fin sans résultats, hier, dans une communauté autochtone éloignée du nord du Manitoba.
+-----------------
+extracted
+ name = ENFANTS AUTOCHTONES,
+ date = mardi 24 décembre 2019,
+ pud_name = OPINION
+-----------------
+extracted
+ name = Ryan Calder,
+ date = vendredi 11 octobre 2019,
+ pud_name = Une mauvaise publicité pour l'hydroélectricité québécoise
+-----------------
+extracted
+ name = PHILIPPE TEISCEIRA-LESSARD,
+ date = mercredi 31 juillet 2019,
+ pud_name = Suicides: le Nord s'enfonce dans la crise
+-----------------
+extracted
+ name = Audrey-Maude Vézina,
+ date = mardi 23 juillet 2019,
+ pud_name = Des variations génétiques expliquent les risques d'anévrisme
+-----------------
+extracted
+ name = Louise Leduc,
+ date = mercredi 30 octobre 2019,
+ pud_name = Forte croissance de la population autochtone du Québec
+-----------------
+extracted
+ name = Laura-Julie Perreault,
+ date = vendredi 27 décembre 2019,
+ pud_name = L'art de gâcher le party
+-----------------
+extracted
+ name = Judith Lachapelle,
+ date = mardi 15 octobre 2019,
+ pud_name = Longue liste, grandes attentes
+-----------------
+extracted
+ name = Daniel Renaud,
+ date = vendredi 22 février 2019,
+ pud_name = Un Hells Angel sans remords libéré d'office
+-----------------
+extracted
+ name = Mathieu Perreault,
+ date = dimanche 16 juin 2019,
+ pud_name = Comment le Grand Nord s'adapte au réchauffement climatique
+-----------------
+extracted
+ name = MONIQUE LEROUX,
+ date = samedi 26 janvier 2019,
+ pud_name = Des personnalités de toutes les sphères de la vie publique témoignent de l'importance d'une presse écrite vibrante, libre et en santé.
+-----------------
+extracted
+ name = ÉRIC CLÉMENT,
+ date = jeudi 25 juillet 2019,
+ pud_name = Jin-me Yoon et Christi Belcourt à Joliette: natures identitaires
+-----------------
+extracted
+ name = ÉRIC CLÉMENT,
+ date = lundi 30 décembre 2019,
+ pud_name = Àbadakone | Feu continuel: embrasser le postcolonialisme
+-----------------
+extracted
+ name = Isabelle Picard,
+ date = dimanche 31 mars 2019,
+ pud_name = OPINION
+-----------------
+extracted
+ name = Éric Clément,
+ date = samedi 17 août 2019,
+ pud_name = Une programmation automnale internationale
+-----------------
+extracted
+ name = Hannah Tooktoo,
+ date = dimanche 18 août 2019,
+ pud_name = Personnalité de la semaine
+-----------------
+extracted
+ name = Le Terror dévoile peu à peu ses secrets,
+ date = jeudi 29 août 2019,
+ pud_name = Expédition franklin
+-----------------
+extracted
+ name = Caroline Monnet,
+ date = dimanche 15 septembre 2019,
+ pud_name = Notre propre Refus global
+-----------------
+extracted
+ name = Martin Croteau; Janie Gosselin,
+ date = vendredi 19 juillet 2019,
+ pud_name = Québec et Ottawa dénoncent les propos du maire Pascal Quevillon
+-----------------
+extracted
+ name = GABRIEL BÉLAND,
+ date = mardi 10 septembre 2019,
+ pud_name = Troisième lien: au tour des Hurons de demander une intervention d'Ottawa
+-----------------
+extracted
+ name = JUDITH LACHAPELLE,
+ date = mardi 15 octobre 2019,
+ pud_name = Relations avec les autochtones : bilan en six temps du gouvernement Trudeau
+-----------------
+extracted
+ name = La Gendarmerie royale du Canada (GRC) s'est tournée vers la communauté de York Landing après que deux personnes,
+ date = mardi 30 juillet 2019,
+ pud_name = « Tant que ces suspects ne seront pas arrêtés ou que notre région ne sera plus considérée comme étant sûre, cette peur demeurera. »
+-----------------
+extracted
+ name = Christian Dufour,
+ date = jeudi 17 octobre 2019,
+ pud_name = Le retour de la société distincte
+-----------------
+extracted
+ name = Éric Clément,
+ date = dimanche 24 mars 2019,
+ pud_name = Gauguin à Ottawa !
+-----------------
+extracted
+ name = Éric Clément,
+ date = jeudi 13 juin 2019,
+ pud_name = Témoins forts de la survivance
+-----------------
+extracted
+ name = Alexandre Sirois,
+ date = mercredi 14 août 2019,
+ pud_name = Les bottines de Mélanie Joly
+-----------------
+extracted
+ name = Florent Vollant,
+ date = dimanche 15 septembre 2019,
+ pud_name = Tête-à-tête
+-----------------
+extracted
+ name = Sarah Mongeau-Birkett,
+ date = samedi 13 juillet 2019,
+ pud_name = À Dawson et nulle part ailleurs
+-----------------
+extracted
+ name = La Pocatière, porte d'entrée du Bas-Saint-Laurent, est une ville située dans la municipalité régionale de comté de Kamouraska, à 130 km,
+ date = samedi 29 juin 2019,
+ pud_name = . PHOTO YVES TREMBLAY, LES YEUX DU CIEL
+-----------------
+extracted
+ name = La Maison d'Ariane s'inscrit dans un ambitieux projet lancé récemment par les Jardins de Métis, l'Atelier du futur, un hub,
+ date = jeudi 29 août 2019,
+ pud_name = maison est de 378 000$, soit la plus importante donation faite au Festival international de jardins, qui fête ses 20 ans cette année.
+-----------------
+extracted
+ name = Alexandre Sirois,
+ date = dimanche 13 janvier 2019,
+ pud_name = Il est minuit moins une
+-----------------
+extracted
+ name = Joël-Denis Bellavance,
+ date = dimanche 28 juillet 2019,
+ pud_name = Après l'euphorie de 2015, la déception s'installe
+-----------------
+extracted
+ name = Isabelle Hachey,
+ date = mardi 17 septembre 2019,
+ pud_name = Il faut bien vivre
+-----------------
+extracted
+ name = Alexandre Poulin Collaborateur à L'Agora et au Verbe,
+ date = samedi 13 avril 2019,
+ pud_name = Afin d'approfondir l'enjeu de la laïcité, nous vous offrons une section quotidienne sur ce sujet d'importance.
+-----------------
+extracted
+ name = Joël-Denis Bellavance,
+ date = mercredi 18 septembre 2019,
+ pud_name = Mulroney récolte 100 millions pour son alma mater
+-----------------
+extracted
+ name = Philippe Teisceira-Lessard,
+ date = dimanche 27 janvier 2019,
+ pud_name = Cinq questions pour comprendre la demande des Atikamekw
+-----------------
+extracted
+ name = Fanny Lévesque,
+ date = mercredi 13 février 2019,
+ pud_name = « Je suis surpris et déçu de sa décision »
+-----------------
+extracted
+ name = Olivia Lévy,
+ date = lundi 21 octobre 2019,
+ pud_name = Les yeux rivés sur le Canada
+-----------------
+extracted
+ name = ENJEUX DES PREMIÈRES NATIONS,
+ date = jeudi 10 octobre 2019,
+ pud_name = OPINION
+-----------------
+extracted
+ name = Vincent Larouche,
+ date = samedi 30 novembre 2019,
+ pud_name = Souvenirs de premiers ministres
+-----------------
+extracted
+ name = Isabelle Picard Ethnologue,
+ date = mercredi 20 février 2019,
+ pud_name = Les traces de l'histoire
+-----------------
+extracted
+ name = Éric Clément,
+ date = jeudi 24 janvier 2019,
+ pud_name = Autochtone conquérante
+-----------------
+extracted
+ name = Gabriel Béland,
+ date = jeudi 20 juin 2019,
+ pud_name = Une nation menacée d'extinction
+-----------------
+extracted
+ name = Hugo Dumas,
+ date = mercredi 11 décembre 2019,
+ pud_name = Polar scandinave à Sudbury
+-----------------
+extracted
+ name = Richard Hétu,
+ date = mardi 16 juillet 2019,
+ pud_name = Elles répliquent à Trump
+-----------------
+extracted
+ name = Jacques Chirac 1932-2019,
+ date = vendredi 27 septembre 2019,
+ pud_name = Ce qu'ils ont dit
+-----------------
+extracted
+ name = Caroline Monnet,
+ date = dimanche 17 mars 2019,
+ pud_name = Personnalité de la semaine
+-----------------
+extracted
+ name = Le Canada peut redevenir une force internationale,
+ date = mercredi 30 octobre 2019,
+ pud_name = OPINION
+-----------------
+extracted
+ name = ÉRIC CLÉMENT,
+ date = dimanche 15 septembre 2019,
+ pud_name = Caroline Monnet : un parcours d'exception
+-----------------
+extracted
+ name = Le Québec vu des airs,
+ date = samedi 28 septembre 2019,
+ pud_name = Voyage
+-----------------
+extracted
+ name = HUGO PILON-LAROSE,
+ date = vendredi 29 novembre 2019,
+ pud_name = Les Métis demandent à Pallister de «se regarder dans le miroir»
+-----------------
+extracted
+ name = Joël-Denis Bellavance; Fanny Lévesque; Mélanie Marquis,
+ date = jeudi 21 novembre 2019,
+ pud_name = Qui sont-ils ?
+-----------------
+extracted
+ name = Autochtones. Selon l'organisme, le groupe a coordonné diverses équipes pour qu'elles se rendent dans certaines,
+ date = dimanche 28 juillet 2019,
+ pud_name = L'Assemblée des chefs du Manitoba a demandé l'aide du Bear Clan Patrol, groupe de surveillance de quartier dirigé par des
+-----------------
+extracted
+ name = Philippe Mercure,
+ date = dimanche 14 juillet 2019,
+ pud_name = ÉDITORIAL
+-----------------
+extracted
+ name = Isabelle Hachey,
+ date = lundi 16 septembre 2019,
+ pud_name = Au bord du gouffre
+-----------------
+extracted
+ name = Éric Clément,
+ date = samedi 23 novembre 2019,
+ pud_name = Documenter l'attente
+-----------------
+extracted
+ name = Guillaume Lefrançois,
+ date = lundi 29 avril 2019,
+ pud_name = Papa est champion
+-----------------
+extracted
+ name = Pierre-André Normandin,
+ date = mardi 23 juillet 2019,
+ pud_name = Hausse marquée des fraudes au Canada
+-----------------
+extracted
+ name = Le Canada, invité d'honneur « Singulier Pluriel »,
+ date = vendredi 18 octobre 2019,
+ pud_name = FOIRE DU LIVRE DE FRANCFORT EN 2020
+-----------------
+extracted
+ name = Fanny Lévesque,
+ date = jeudi 25 juillet 2019,
+ pud_name = Un véritable casse-tête, plaide le DGE
+-----------------
+extracted
+ name = Fabrice Vil,
+ date = dimanche 20 octobre 2019,
+ pud_name = La base pour le futur
+-----------------
+extracted
+ name = Nicolas Bérubé,
+ date = samedi 28 septembre 2019,
+ pud_name = L'avenir est sombre, croient les Américains
+-----------------
+extracted
+ name = news·20190330·LAA·340098596095f94b2cc8f7c06acd9f2f,
+ date = samedi 30 mars 2019,
+ pud_name = Certificat émis le 11 juin 2023 à Ottawa-Public-Library2 à des fins de visualisation personnelle et temporaire.
+-----------------
+extracted
+ name = Josée Lapointe,
+ date = mercredi 18 septembre 2019,
+ pud_name = Des premières à l'ADISQ
+-----------------
+extracted
+ name = Yves Boisvert,
+ date = jeudi 14 février 2019,
+ pud_name = Une bataille que Trudeau a perdue
+-----------------
+extracted
+ name = Éric Clément,
+ date = mardi 26 novembre 2019,
+ pud_name = Objectif diversité !
+-----------------
+extracted
+ name = Robert Lepage nommé Artiste pour la paix 2019,
+ date = mardi 23 avril 2019,
+ pud_name = Théâtre
+-----------------
+extracted
+ name = Éric Clément,
+ date = dimanche 23 juin 2019,
+ pud_name = La grande pertinence de Rebecca Belmore
+-----------------
+extracted
+ name = Yves Masse,
+ date = samedi 23 février 2019,
+ pud_name = PORTRAIT
+-----------------
+extracted
+ name = « Ce n'est pas une question de racisme »,
+ date = mardi 15 octobre 2019,
+ pud_name = s'engager à respecter « un code de vie » pour habiter sur place.
+-----------------
+extracted
+ name = La DPJ « discrimine » les familles haïtiennes, selon une intervenante,
+ date = jeudi 24 octobre 2019,
+ pud_name = COMMISSION Laurent
+-----------------
+extracted
+ name = Luc Boulanger,
+ date = lundi 14 janvier 2019,
+ pud_name = La volonté de résister
+-----------------
+extracted
+ name = Isabelle Hachey,
+ date = lundi 16 septembre 2019,
+ pud_name = Un village sur la ligne de front
+-----------------
+extracted
+ name = Yves Boisvert,
+ date = mercredi 10 avril 2019,
+ pud_name = Les gilets jaunes de Calgary
+-----------------
+extracted
+ name = Michelle Obama,
+ date = lundi 29 avril 2019,
+ pud_name = Société
+-----------------
+extracted
+ name = Yasmine Mehdi,
+ date = dimanche 28 juillet 2019,
+ pud_name = Le jour où les Canadiens sont partis
+-----------------
+extracted
+ name = Neil Davidson,
+ date = mardi 11 juin 2019,
+ pud_name = Soupir de soulagement
+-----------------
+extracted
+ name = JÉRÉMIE McEWEN,
+ date = mercredi 30 octobre 2019,
+ pud_name = La théocratie américaine selon West
+-----------------
+extracted
+ name = Hépatite C,
+ date = jeudi 12 septembre 2019,
+ pud_name = OPINION
+-----------------
+extracted
+ name = Hugo Dumas,
+ date = mardi 30 avril 2019,
+ pud_name = Regarderez-vous cette comédie politique ?
+-----------------
+extracted
+ name = Hugo Dumas,
+ date = samedi 23 novembre 2019,
+ pud_name = Meurtre et mystère agroalimentaire
+-----------------
+extracted
+ name = Neil Davidson,
+ date = vendredi 14 juin 2019,
+ pud_name = « Elles vont se battre pour leur survie »
+-----------------
+extracted
+ name = Tasha Kheiriddin,
+ date = vendredi 20 décembre 2019,
+ pud_name = Charest ou pas Charest…
+-----------------
+extracted
+ name = Joël-Denis Bellavance,
+ date = dimanche 25 août 2019,
+ pud_name = Au pays de « Dief the Chief »
+-----------------
+extracted
+ name = Mélanie Marquis,
+ date = vendredi 21 juin 2019,
+ pud_name = La session en dix moments marquants
+-----------------
+extracted
+ name = Martin Croteau, Janie Gosselin,
+ date = jeudi 18 juillet 2019,
+ pud_name = Québec et Ottawa dénoncent les propos du maire d'Oka
+-----------------
+extracted
+ name = Jean Siag,
+ date = mardi 30 juillet 2019,
+ pud_name = Le blues du fonctionnaire
+-----------------
+extracted
+ name = Lysiane Gagnon,
+ date = mercredi 23 octobre 2019,
+ pud_name = Notes sur un pays fractionné
+-----------------
+extracted
+ name = Louise Leduc,
+ date = samedi 14 décembre 2019,
+ pud_name = Accord pour le financement de cinq projets de tramway
+-----------------
+extracted
+ name = Stéphane Modat,
+ date = samedi 21 septembre 2019,
+ pud_name = GOURMAND
+-----------------
+extracted
+ name = Quand Québec solidaire fait de la science-fiction,
+ date = mardi 19 novembre 2019,
+ pud_name = ÉDITORIAL
+-----------------
+extracted
+ name = Éric Clément,
+ date = mardi 30 avril 2019,
+ pud_name = Le festival d'art public se renouvelle
+-----------------
+extracted
+ name = Mélanie Marquis,
+ date = jeudi 25 avril 2019,
+ pud_name = Une nouvelle ligne de fracture se dessine entre Ottawa et Québec
+-----------------
+extracted
+ name = Etienne Plamondon Emond,
+ date = mercredi 13 novembre 2019,
+ pud_name = Plaidoyer pour une modernisation des règles
+-----------------
+extracted
+ name = Simon-Olivier Lorange; Hugo Pilon-Larose; Fanny Lévesque,
+ date = vendredi 20 septembre 2019,
+ pud_name = Scheer à l'attaque, Singh inquiet
+-----------------
+extracted
+ name = Nicolas Bourcier,
+ date = lundi 17 juin 2019,
+ pud_name = Ottawa reconnaît les langues des signes
+-----------------
+extracted
+ name = ENTREVUE AVEC LE CHEF DE L'ASSEMBLÉE DES PREMIÈRES NATIONS,
+ date = jeudi 10 octobre 2019,
+ pud_name = EXCLUSIF
+-----------------
+extracted
+ name = Quand Bouchard et Charest causent politique,
+ date = jeudi 24 octobre 2019,
+ pud_name = CHRONIQUE
+-----------------
+extracted
+ name = Richard Therrien,
+ date = jeudi 15 août 2019,
+ pud_name = Vendredis hâtifs à ICI ARTV
+-----------------
+extracted
+ name = Stéphanie Morin,
+ date = samedi 29 juin 2019,
+ pud_name = Sur la route des cowboys
+-----------------
+extracted
+ name = Simon-Olivier Lorange,
+ date = samedi 12 octobre 2019,
+ pud_name = Le « courage » de faire payer les entreprises
+-----------------
+extracted
+ name = ÉRIC CLÉMENT,
+ date = mardi 26 mars 2019,
+ pud_name = Gauguin au Musée des beaux-arts du Canada
+-----------------
+extracted
+ name = Tommy Chouinard,
+ date = lundi 12 août 2019,
+ pud_name = Anglade promet une loi sur l'interculturalisme
+-----------------
+extracted
+ name = FÉLIX-ANTOINE JOLI-CŒUR,
+ date = mercredi 23 octobre 2019,
+ pud_name = Je vous souhaite beaucoup de succès
+-----------------
+extracted
+ name = Pierre Cliche,
+ date = jeudi 11 avril 2019,
+ pud_name = Avons-nous le droit d'être ce que nous sommes ?
+-----------------
+extracted
+ name = ÉRIC CLÉMENT,
+ date = jeudi 13 juin 2019,
+ pud_name = Alanis Obomsawin au MBAM: témoins forts de la survivance
+-----------------
+extracted
+ name = MÉLANIE MARQUIS,
+ date = jeudi 10 octobre 2019,
+ pud_name = La bataille du Grand Toronto
+-----------------
+extracted
+ name = Agnès Gruda,
+ date = mardi 12 mars 2019,
+ pud_name = La communauté scientifique canadienne en deuil
+-----------------
+extracted
+ name = Laurence Desmarais,
+ date = mercredi 24 juillet 2019,
+ pud_name = Nous sommes responsables de l'héritage raciste des camps
+-----------------
+extracted
+ name = Mayssa Ferah,
+ date = vendredi 20 septembre 2019,
+ pud_name = Le « grand chef » Guillaume Carle sera accusé de délits sexuels
+-----------------
+extracted
+ name = Yves Boisvert,
+ date = jeudi 18 avril 2019,
+ pud_name = Qui succédera au juge Gascon ?
+-----------------
+extracted
+ name = Éric Clément,
+ date = jeudi 31 janvier 2019,
+ pud_name = Le nu artistique en contexte montréalais
+-----------------
+extracted
+ name = Mélanie Marquis,
+ date = jeudi 26 décembre 2019,
+ pud_name = Les verts fleurissent en Atlantique
+-----------------
+extracted
+ name = Les États-Unis corrigent la Thaïlande 13-0,
+ date = mercredi 12 juin 2019,
+ pud_name = « Tous les buts comptent »
+-----------------
+extracted
+ name = Simon-Olivier Lorange,
+ date = mardi 16 avril 2019,
+ pud_name = Paris pleure sa cathédrale
+-----------------
+extracted
+ name = Michel Leclerc,
+ date = lundi 11 mars 2019,
+ pud_name = Le français en forte progression grâce à l'Afrique
+-----------------
+extracted
+ name = ÉRIC CLÉMENT,
+ date = samedi 26 janvier 2019,
+ pud_name = Nadia Myre: autochtone conquérante
+-----------------
+extracted
+ name = VINCENT LAROUCHE,
+ date = samedi 30 novembre 2019,
+ pud_name = Mission: protéger le premier ministre
+-----------------
+extracted
+ name = Alanis Obomsawin pour sa contribution au progrès de la justice sociale et au respect des droits autochtones.,
+ date = lundi 18 mars 2019,
+ pud_name = L'Université de Sherbrooke a remis le 15 mars dernier un doctorat honoris causa à la cinéaste de renommée internationale
+-----------------
+extracted
+ name = VIOLAINE BALLIVY ET STÉPHANIE MORIN,
+ date = vendredi 15 février 2019,
+ pud_name = Cinq destinations pour s'émerveiller au Canada
+-----------------
+extracted
+ name = Isabelle Hachey,
+ date = vendredi 27 septembre 2019,
+ pud_name = Sommes-nous hypocrites ?
+-----------------
+extracted
+ name = SUZANNE COLPRON, MATHIEU PERREAULT, LAURA-JULIE PERREAULT, SUZANNE COLPRON,
+ date = samedi 17 août 2019,
+ pud_name = Crise à Hong Kong : « On ne sait pas où ça va finir »
+-----------------
+extracted
+ name = Philippe Teisceira-Lessard,
+ date = jeudi 31 janvier 2019,
+ pud_name = Une ado serait morte de froid dans le Nord-du-Québec
+-----------------
+extracted
+ name = Iris Gagnon-Paradis,
+ date = lundi 11 février 2019,
+ pud_name = Prendre position
+-----------------
+extracted
+ name = Claudette Carbonneau,
+ date = mardi 26 mars 2019,
+ pud_name = Pour un renouvellement en profondeur du projet d'indépendance
+-----------------
+extracted
+ name = Sara Champagne,
+ date = vendredi 22 février 2019,
+ pud_name = L'impact de l'agrandissement de l'oléoduc sur les épaulards sera au cœur de la décision
+-----------------
+extracted
+ name = Marc Miller, secrétaire parlementaire de la ministre des Relations Couronne-Autochtones, Carolyn Bennett, a déclaré hier que,
+ date = mercredi 24 juillet 2019,
+ pud_name = voisine de Kanesatake afin de discuter d'un litige concernant un projet foncier qui a fait renaître de vieilles tensions dans la région.
+-----------------
+extracted
+ name = Iris Gagnon-Paradis,
+ date = mercredi 20 novembre 2019,
+ pud_name = Rencontrer l'autre solitude
+-----------------
+extracted
+ name = Éric Clément,
+ date = jeudi 19 septembre 2019,
+ pud_name = Arts visuels protestation artistique pour une plus grande diversité au MAC
+-----------------
+extracted
+ name = Nathalie Collard,
+ date = dimanche 15 décembre 2019,
+ pud_name = Vitrine sur quatre magazines à (RE)découvrir
+-----------------
+extracted
+ name = Daniel Renaud,
+ date = vendredi 28 juin 2019,
+ pud_name = Plus de 178 millions auraient échappé à l'État
+-----------------
+extracted
+ name = Raphael Pirro,
+ date = samedi 29 juin 2019,
+ pud_name = La célébration après des années de labeur
+-----------------
+extracted
+ name = TERMINAL GRAND NORD, D'ISABELLE LAFORTUNE,
+ date = dimanche 10 mars 2019,
+ pud_name = Littérature québécoise
+-----------------
+extracted
+ name = Isabelle Picard Ethnologue,
+ date = vendredi 21 juin 2019,
+ pud_name = La tarte
+-----------------
+extracted
+ name = Isabelle Picard,
+ date = jeudi 29 août 2019,
+ pud_name = La varicelle
+-----------------
+extracted
+ name = Luc Boulanger,
+ date = mardi 15 janvier 2019,
+ pud_name = Échos de scène
+-----------------
+extracted
+ name = Lysiane Gagnon,
+ date = samedi 19 octobre 2019,
+ pud_name = Les voies assombries
+-----------------
+extracted
+ name = Audrey Ruel-Manseau; Janie Gosselin,
+ date = mardi 22 octobre 2019,
+ pud_name = Déconfiture pour le NPD au Québec
+-----------------
+extracted
+ name = Philippe Mercure,
+ date = dimanche 17 novembre 2019,
+ pud_name = De l'éradication à la légalisation
+-----------------
+extracted
+ name = Jean-François Codère,
+ date = vendredi 20 décembre 2019,
+ pud_name = NorthStar met un pied à terre au Luxembourg
+-----------------
+extracted
+ name = Hugo Pilon-Larose,
+ date = lundi 18 mars 2019,
+ pud_name = Le discret nationaliste
+-----------------
+extracted
+ name = Mélanie Marquis,
+ date = mercredi 19 juin 2019,
+ pud_name = Wilson-Raybould et Philpott critiquent la décision de Trudeau
+-----------------
+extracted
+ name = Justin Trudeau et la laïcité,
+ date = samedi 12 octobre 2019,
+ pud_name = OPINION
+-----------------
+extracted
+ name = Pascal LeBlanc,
+ date = vendredi 12 juillet 2019,
+ pud_name = Wu-Tang Clan en 10 chiffres
+-----------------
+extracted
+ name = PARIS ET GRENOBLE, France — Célébrations « excessives et irrespectueuses » ou « indignation moralisatrice » : l'attitude,
+ date = jeudi 13 juin 2019,
+ pud_name = L'analyste et ex-joueuse canadienne Kaylyn Kyle reçoit des menaces de mort
+-----------------
+extracted
+ name = François Cardinal,
+ date = vendredi 18 octobre 2019,
+ pud_name = Déficits ou pas déficits, là est la question
+-----------------
+extracted
+ name = Marc Tison,
+ date = samedi 20 juillet 2019,
+ pud_name = Réflexions et souvenirs spatiaux
+-----------------
+extracted
+ name = JEAN-FRANÇOIS CODÈRE, AUDREY RUEL-MANSEAU, AGNÈS GRUDA,
+ date = mardi 12 mars 2019,
+ pud_name = Faut-il s'inquiéter du Boeing 737 MAX ?
+-----------------
+extracted
+ name = FANNY LÉVESQUE,
+ date = jeudi 25 juillet 2019,
+ pud_name = Changement de la date des élections: un véritable casse-tête, plaide le DGE
+-----------------
+extracted
+ name = MATHIEU PERREAULT,
+ date = mercredi 28 août 2019,
+ pud_name = Promenade dans le Terror
+-----------------
+extracted
+ name = LOUISE LEDUC,
+ date = mercredi 23 octobre 2019,
+ pud_name = DPJ: «La qualité des services est en baisse»
+-----------------
+extracted
+ name = Celeste Groux, diplômée du Collège Dawson (Sciences pures et appliquées, 2019) a obtenu le prix d'excellence en leadership,
+ date = vendredi 23 août 2019,
+ pud_name = Étudiante autochtone honorée
+-----------------
+extracted
+ name = IRIS GAGNON-PARADIS,
+ date = lundi 11 février 2019,
+ pud_name = Les galas, une tribune de choix pour prendre position
+-----------------
+extracted
+ name = Daniel Renaud,
+ date = lundi 25 février 2019,
+ pud_name = Le nom des Hells Angels sera lavé un jour, croit.... un Hells Angels
+-----------------
+extracted
+ name = Gilles Archambault a trouvé depuis longtemps ses grands thèmes, qui n'ont peut-être jamais été plus pertinents que,
+ date = lundi 11 mars 2019,
+ pud_name = constituent le recueil Tu écouteras ta mémoire, dont la concision est un gage de profondeur et de politesse qu'on ne retrouvera jamais sur Twitter.
+-----------------
+extracted
+ name = SARA CHAMPAGNE,
+ date = jeudi 21 mars 2019,
+ pud_name = Le monument à John A. Macdonald encore vandalisé
+-----------------
+extracted
+ name = Les Kurdes ont vécu comme une trahison le départ des soldats canadiens à l'automne 2017. Deux ans plus tard, ils demandent,
+ date = dimanche 28 juillet 2019,
+ pud_name = YASMINE MEHDI
+-----------------
+extracted
+ name = MÉLANIE MARQUIS,
+ date = vendredi 21 juin 2019,
+ pud_name = Fin de session parlementaire à Ottawa: l'heure des bilans, en attendant les élections
+-----------------
+extracted
+ name = MÉLANIE MARQUIS,
+ date = mercredi 24 avril 2019,
+ pud_name = Évaluations environnementales: désaccord Québec-Ottawa
+-----------------
+extracted
+ name = IRIS GAGNON-PARADIS,
+ date = samedi 21 septembre 2019,
+ pud_name = Stéphane Modat, explorateur en chef
+-----------------
+extracted
+ name = ALAIN BRUNET,
+ date = mercredi 20 février 2019,
+ pud_name = Le bloc-notes: suggestions pour Montréal/Nouvelles Musiques
+-----------------
+extracted
+ name = STÉPHANIE MORIN ET SARAH MONGEAU-BIRKETT,
+ date = mercredi 17 juillet 2019,
+ pud_name = À Dawson et nulle part ailleurs
+-----------------
+extracted
+ name = Daniel Renaud,
+ date = jeudi 27 juin 2019,
+ pud_name = Contrebande de tabac: 178 millions auraient échappé à l'État
+-----------------
+extracted
+ name = LUC BOULANGER,
+ date = mercredi 16 janvier 2019,
+ pud_name = La Queens': la volonté de résister
+-----------------
+extracted
+ name = DANIEL RENAUD,
+ date = jeudi 28 novembre 2019,
+ pud_name = Sergio Picirilli victime d'une tentative de meurtre au pénitencier
+-----------------
+extracted
+ name = MAYSSA FERAH,
+ date = jeudi 31 octobre 2019,
+ pud_name = La statue de John A. Macdonald vandalisée par des «zombies anticoloniaux»
+-----------------
+extracted
+ name = Pour Onyeka Arinze, directrice régionale adjointe du Métis Addictions Council à Saskatoon, le fait que la méthamphétamine,
+ date = lundi 23 septembre 2019,
+ pud_name = les services publics provinciaux et municipaux. En Saskatchewan, on attribue à cette crise une hausse du nombre de crimes contre la propriété ainsi qu'une augmentation du taux de VIH - la province présente déjà le ratio le plus élevé du pays.
+-----------------
+extracted
+ name = Le Tarok est une version plus courte et stylisée du pickup Amarok, mais il est monté sur une plateforme de voiture. C'est un,
+ date = lundi 15 avril 2019,
+ pud_name = exposer le Tarok à New York vise à «jauger la réaction du marché envers un petit pickup d'entrée de gamme vraiment polyvalent».
+-----------------
+extracted
+ name = NATHALIE COLLARD, IRIS GAGNON-PARADIS,
+ date = mercredi 20 novembre 2019,
+ pud_name = Quoi faire au Salon du livre de Montréal?
+-----------------
+extracted
+ name = FANNY LÉVESQUE ET ROBERT SKINNER, SIMON-OLIVIER LORANGE, FANNY LÉVESQUE ET SIMON-OLIVIER LORANGE,
+ date = samedi 16 novembre 2019,
+ pud_name = Internet: la lente conquête de la haute vitesse
+-----------------
+extracted
+ name = ÉRIC CLÉMENT,
+ date = lundi 25 février 2019,
+ pud_name = La Montréalaise Caroline Monnet à la Whitney Biennial 2019
+-----------------
+extracted
+ name = DANIEL RENAUD,
+ date = mardi 26 novembre 2019,
+ pud_name = Sergio Piccirilli débouté en appel
+-----------------
+extracted
+ name = Evo Morales a dirigé la Bolivie pendant près de 14 ans avant d'être forcé de quitter son poste et son pays il y a quelques jours.,
+ date = dimanche 17 novembre 2019,
+ pud_name = TEXTE : PHILIPPE MERCURE, PHOTOS : FRANÇOIS ROY
+-----------------
