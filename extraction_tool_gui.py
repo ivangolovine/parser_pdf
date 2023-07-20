@@ -20,7 +20,7 @@ def list_of_files(file_paths, file_name_txt, file_name_xml, path_save, trial_run
             print(file_path[len_file-4:len_file])
             get_path(file_path, file_name_txt, path_save, trial_run_enable, data_indexes)
         else:
-            print("Retard")
+            print("Test")
 
         convert_to_excel("testing2.txt", file_name_xml_export, path_save)
 
